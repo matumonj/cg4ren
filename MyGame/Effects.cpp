@@ -17,6 +17,7 @@
 //	efk->SetPosition(Effect_Pos.x, Effect_Pos.y, Effect_Pos.z);
 //	efk->SetRotation(0, 0, 0);
 //	efk->SetScale(1, 1, 1);
+// ;;
 //	efk1->SetPosition(-10, 0, 190);
 //
 //	//エフェクトの再生
