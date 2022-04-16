@@ -20,7 +20,7 @@
 // ;;
 //	efk1->SetPosition(-10, 0, 190);
 //
-//	//エフェクトの再生
+//	//エフェクトの再生k
 //	//if (Input::GetInstance()->Pushkey(DIK_SPACE)) {
 //	efk->Load_Effect();
 //	//}
