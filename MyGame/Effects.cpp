@@ -5,7 +5,7 @@
 //	//エフェクトのインスタンス生成
 //	efk = new mEffekseer();
 //	efk1 = new mEffekseer();
-//
+//kkk
 //	//エフェクトのセット(3引き数に)
 //	efk->EffekseerSetting(dxcomn, camera, (const EFK_CHAR*)L"Effect/10/thunder.efk", (const EFK_CHAR*)L"effect/10");
 //	efk1->EffekseerSetting(dxcomn, camera, (const EFK_CHAR*)L"Effect/10/SimpleLaser.efk", (const EFK_CHAR*)L"effect/10");
